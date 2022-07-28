@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "timeaftertime",
+    "name": "Time After Time",
+    "description": "Mythic end of 2nd season",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:timeaftertime"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

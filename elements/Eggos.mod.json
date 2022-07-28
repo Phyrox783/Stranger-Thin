@@ -1,0 +1,43 @@
+{
+  "_fv": 28,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "bite",
+    "customModelName": "Normal",
+    "name": "Master Eggo",
+    "rarity": "EPIC",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 11,
+    "enchantability": 0,
+    "useDuration": 10,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 5.0,
+    "specialInfo": [],
+    "hasGlow": true,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "hasDispenseBehavior": false,
+    "isFood": true,
+    "nutritionalValue": 20,
+    "saturation": 7.5,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": true,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

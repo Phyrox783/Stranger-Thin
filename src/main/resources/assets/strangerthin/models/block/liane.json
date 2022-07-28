@@ -1,0 +1,8 @@
+{
+  "parent": "strangerthin:custom/vine",
+  "textures": {
+    "all": "strangerthin:blocks/texture",
+    "particle": "strangerthin:blocks/texture",
+    "2": "strangerthin:blocks/texture"
+  }
+}

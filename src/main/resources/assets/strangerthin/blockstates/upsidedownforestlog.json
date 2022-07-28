@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "normal": {
+      "model": "strangerthin:upsidedownforestlog"
+    },
+    "facing=south": {
+      "model": "strangerthin:upsidedownforestlog"
+    },
+    "facing=north": {
+      "model": "strangerthin:upsidedownforestlog"
+    },
+    "facing=east": {
+      "model": "strangerthin:upsidedownforestlog",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "strangerthin:upsidedownforestlog",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "strangerthin:upsidedownforestlog",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "strangerthin:upsidedownforestlog",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

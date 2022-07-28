@@ -1,0 +1,110 @@
+{
+  "running_up": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "strangerthin:ate_ush_-_unning_p_hat_ill_tranger_hings_ersion",
+        "stream": false
+      }
+    ]
+  },
+  "shouldistayorshouldigo": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:should_i_stay_or_should_i_go",
+        "stream": false
+      }
+    ]
+  },
+  "masterofpuppets": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:master_of_puppets",
+        "stream": false
+      }
+    ]
+  },
+  "neverendingstory": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:never_ending_story",
+        "stream": false
+      }
+    ]
+  },
+  "passthedutchie": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:pass_the_dutchie",
+        "stream": false
+      }
+    ]
+  },
+  "materialgirl": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:material_girl",
+        "stream": false
+      }
+    ]
+  },
+  "timeaftertime": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:time_after_time",
+        "stream": false
+      }
+    ]
+  },
+  "kids": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "strangerthin:kids",
+        "stream": false
+      }
+    ]
+  },
+  "soldier": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "strangerthin:soldiers",
+        "stream": false
+      }
+    ]
+  },
+  "ambiantsoundupsidedown": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "strangerthin:ambiantsoundupsidedown",
+        "stream": false
+      }
+    ]
+  },
+  "upisdeambiance": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "strangerthin:_stranger_things_the_upside_down_asmr_ambience__thunderstorm_the_mind_flayer_demogorgon_sounds",
+        "stream": true
+      }
+    ]
+  },
+  "ammibance": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "strangerthin:stra",
+        "stream": false
+      }
+    ]
+  }
+}

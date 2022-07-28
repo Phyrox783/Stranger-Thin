@@ -1,0 +1,26 @@
+{
+  "group": "strangerthin",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  2",
+    " 4 ",
+    "6  "
+  ],
+  "key": {
+    "2": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "4": {
+      "item": "minecraft:log",
+      "data": 0
+    },
+    "6": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "strangerthin:batte",
+    "count": 1
+  }
+}

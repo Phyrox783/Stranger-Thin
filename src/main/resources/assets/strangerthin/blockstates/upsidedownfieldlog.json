@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "strangerthin:block/upsidedownfieldlog",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "strangerthin:block/upsidedownfieldlog"
+    },
+    "axis=z": {
+      "model": "strangerthin:block/upsidedownfieldlog",
+      "x": 90
+    }
+  }
+}

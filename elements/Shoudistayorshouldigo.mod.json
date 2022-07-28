@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "shouldistayorshouldigo",
+    "name": "Should I stay or should I Go",
+    "description": "Remind us of stranger things beginning ",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:shouldistayorshouldigo"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "materialgirl",
+    "name": "Material Girl",
+    "description": "Remember 3rd season",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:materialgirl"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

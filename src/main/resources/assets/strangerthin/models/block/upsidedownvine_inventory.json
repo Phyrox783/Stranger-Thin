@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "strangerthin:blocks/log4",
+    "particle": "strangerthin:blocks/log4"
+  }
+}

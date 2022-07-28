@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "strangerthin:blocks/demotrophy11",
+    "particle": "strangerthin:blocks/demotrophy11"
+  }
+}

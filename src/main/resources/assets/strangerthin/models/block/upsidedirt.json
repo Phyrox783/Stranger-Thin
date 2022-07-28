@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "up": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "north": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "east": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "south": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "west": "strangerthin:blocks/upside_down_field_dirt_bottom",
+    "particle": "strangerthin:blocks/upside_down_field_dirt_bottom"
+  }
+}

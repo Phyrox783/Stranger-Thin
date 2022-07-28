@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "strangerthin:block/upsidedown_portal_ew"
+    },
+    "axis=x": {
+      "model": "strangerthin:block/upsidedown_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "passthedutchie",
+    "name": "Pass the dutchie",
+    "description": "don't smoke weed kids",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:passthedutchie"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

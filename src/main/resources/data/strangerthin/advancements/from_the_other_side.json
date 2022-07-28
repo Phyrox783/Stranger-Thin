@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "strangerthin:upsidedowndirt"
+    },
+    "title": {
+      "translate": "advancements.from_the_other_side.title"
+    },
+    "description": {
+      "translate": "advancements.from_the_other_side.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "from_the_other_side": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "biome": "strangerthin:upsidedownforest"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  }
+}

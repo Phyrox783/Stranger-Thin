@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangerthin:blocks/upside_down_forest_log_upp",
+    "up": "strangerthin:blocks/upside_down_forest_log_upp",
+    "north": "strangerthin:blocks/upside_down_log_face",
+    "east": "strangerthin:blocks/upside_down_log_face",
+    "south": "strangerthin:blocks/upside_down_log_face",
+    "west": "strangerthin:blocks/upside_down_log_face",
+    "particle": "strangerthin:blocks/upside_down_forest_log_upp"
+  }
+}

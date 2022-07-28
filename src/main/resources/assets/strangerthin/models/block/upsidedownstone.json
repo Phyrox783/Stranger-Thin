@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "up": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "north": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "east": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "south": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "west": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee",
+    "particle": "strangerthin:blocks/upsidestdddddddoneeeeeeeeeeeeeeeee"
+  }
+}

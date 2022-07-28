@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "masterofpuppets",
+    "name": "Master of puppets",
+    "description": "Eddy <3",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:masterofpuppets"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

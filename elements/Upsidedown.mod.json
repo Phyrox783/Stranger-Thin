@@ -1,0 +1,49 @@
+{
+  "_fv": 28,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Upsidedownfield"
+      },
+      {
+        "value": "CUSTOM:Upsidedownforest"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Upsidedownstone"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Upsidedowntoxicwater"
+    },
+    "airColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": false,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "CUSTOM:Upsidedownportal"
+    },
+    "portalParticles": {
+      "value": "WHITE_ASH"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Upsidedown Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "upsideportalitem",
+    "portalTexture": "upside_down_portal_texture",
+    "enablePortal": true
+  }
+}

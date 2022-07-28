@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "strangerthin:blocks/dead_bush",
+    "particle": "strangerthin:blocks/dead_bush"
+  }
+}

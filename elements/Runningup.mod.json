@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "running_up",
+    "name": "Running up that hill",
+    "description": "Try to escape...",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:running_up"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

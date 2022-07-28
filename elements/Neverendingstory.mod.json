@@ -1,0 +1,17 @@
+{
+  "_fv": 28,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "neverendingstory",
+    "name": "Never Ending Story",
+    "description": "Funniest season 3 scene",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:neverendingstory"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

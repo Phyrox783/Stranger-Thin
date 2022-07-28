@@ -1,0 +1,114 @@
+{
+  "_fv": 28,
+  "_type": "biome",
+  "definition": {
+    "name": "Upside down forest",
+    "groundBlock": {
+      "value": "CUSTOM:Upsidedownforestdirt"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Upsidedirtforest"
+    },
+    "underwaterBlock": {
+      "value": ""
+    },
+    "airColor": {
+      "value": -6710887,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13261999,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -13261999,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -10066330,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "CUSTOM:upisdeambiance"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 0,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:Ash"
+    },
+    "particlesProbability": 0.0,
+    "biomeCategory": "NONE",
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.15,
+    "spawnBiome": false,
+    "spawnBiomeNether": false,
+    "spawnInCaves": false,
+    "biomeWeight": 150,
+    "biomeDictionaryTypes": [],
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 3,
+    "vanillaTreeType": "Big trees",
+    "treeType": 1,
+    "minHeight": 14,
+    "treeStem": {
+      "value": "CUSTOM:UpsideDownForestLog"
+    },
+    "treeBranch": {
+      "value": "Blocks.AIR"
+    },
+    "treeVines": {
+      "value": "Blocks.AIR"
+    },
+    "treeFruits": {
+      "value": "Blocks.AIR"
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "defaultFeatures": [
+      "Caves",
+      "Lakes"
+    ],
+    "spawnEntries": []
+  }
+}

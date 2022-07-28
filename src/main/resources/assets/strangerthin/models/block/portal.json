@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "strangerthin:blocks/upside_down_portal_texture",
+    "up": "strangerthin:blocks/upside_down_portal_texture",
+    "north": "strangerthin:blocks/upside_down_portal_texture",
+    "east": "strangerthin:blocks/upside_down_portal_texture",
+    "south": "strangerthin:blocks/upside_down_portal_texture",
+    "west": "strangerthin:blocks/upside_down_portal_texture",
+    "particle": "strangerthin:blocks/upside_down_portal_texture"
+  }
+}
